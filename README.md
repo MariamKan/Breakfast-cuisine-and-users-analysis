@@ -38,9 +38,10 @@ paid_cash: if payment is cash or not
 ### Data exploration
 (main)
 - to read cleaning, use original data 'Assessment exercise dataset - orders.csv'
+-for visualizations use matplotlib as plt and seaborn as sns
 ### Data cleaning
-order_timestamp converted to datetime element
-Drop NaN values(not existing NaNs)
+-order_timestamp converted to datetime element
+-Drop NaN values(not existing NaNs)
 #### Conclusions
 -Customers were divided to five classes: Champions,High value Customer,Medium Value Customer,Has Potential,Lost Customers
 -Lost Customers appear only in the start of the dataset, and then become inactive
@@ -52,5 +53,6 @@ Drop NaN values(not existing NaNs)
 -Potentials are more likely to buy in sequence Breakfast and Meat
 -Most orders by all classes were made from 20:00 to 22:00. Orders in the early morning are the lowest. Local peak in 10.00 and 11.00
 -Most orders are during Saturday-Sunday
+-Further considerations for which target group is more valuable for Breakfast are Medium Value and Potential customers
 #### presentation folder
 Join for Breakfast with Efood (1).pdf
