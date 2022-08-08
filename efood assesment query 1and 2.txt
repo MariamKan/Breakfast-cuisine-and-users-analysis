@@ -1,0 +1,12 @@
+Query#1
+We notice that Volos has a better basket for all kitchens compared to breakfast but 
+the frequency is slightly more increased in general for all consumers but also for consumers who have more than 3 orders.
+The same behavior has Larissa with a little lower rates in terms of customers for more than 3 orders.
+In Xanthi there is a decline in the consumer basket for breakfast but also for all kitchens together however it appears better frequency of all users 
+but also those who have more than 3 orders in related to the previous two cities.
+Ioannina and Rhodes have a much better performance in the general basket and in the breakfast basket 
+but the specific performance does not have the same behavior in the other percentages(frequency and frequency of consumers over 3 orders).
+Query#2
+As for the results of the top 10 users based on their orders for each city it is observed that in smaller cities (mainly in cities of Peloponnese ) 
+but also in some small islands the top 10 consumers contribute more to their cities but this also has to do with the fact that the orders there are much less than the larger cities.
+This certainly shows that within the month most, if not all in some cases, orders were made by the top 10 users.
