@@ -25,7 +25,7 @@ We would like to be able to capture those signals and identify those users as ea
 ## Goals
 Segment existing customers besed on RFM analysis and categorize them by their Frequency and Monetary Value
 ### Data set description
-Data set consisted of 552639 order transactions.
+Data set consisted of 534270 order transactions.
 Rows of Dataset: 534270
 Columns of Dataset: 7
 order_id: unique identification of orders
