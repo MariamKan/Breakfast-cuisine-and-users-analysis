@@ -1,0 +1,33 @@
+Cover Slide(comments and improvements)
+
+Τhe colors of the lines in both charts do not differ much, they confuse the viewer and make them work much harder to interpret the meaning of what line corresponds to where 
+and what it represents.
+Αlso the lines in the first diagram showing the orders are not clear to which number they correspond.
+The horizontal grid does not match the steps of the Y axis (500,1k,1.5k etc). 
+It is not clear what "Jokers" represent or their units.
+The choice of colors, blue lines overlapping the red bars, lacks clarity.
+On the right side, as we look at the first diagram, there are some numbers with steps of 20 that correspond to acquisitions but
+these are not indicated anywhere and only when one does the addition for all the days (which is 37) does he understand that it symbolizes this.
+Finally in the first diagram we can't clearly see what has been selected or it only has one type of cuisine parent which does not appear anywhere in the diagrams.
+
+In the second diagram of the same picture, both number and line colors do not differ enough from each other 
+resulting in confusing information, and the numbers are often overlapping as well making them hard to read.
+On the X-axis there is a line that corresponds to the order failure rate but does not give any information.
+Also in the Y-axis the left shows average value and the right percentage thus confusing the observer regarding the right units to use for each metric.
+Finally, from the moment that both charts appear on the same dashboard, an additional inexpediency is that the colors used to capture the jokers, mobile share 
+and order failure rate are identical.
+
+Some improvements that we can suggest are:
+-Add a Text to provide users with instructions and a general overview
+-Know who the target audience is
+-Attempt to layer every metric on more than one dashboard
+
+The outcome
+
+These slides shows the orders for the first week of January 2022.
+Wednesday and Friday are the days with the most orders.
+Online payment share and Mobile share seem to have fluctuated without any particular increases over the week with the second being 25% higher than the first.
+In the second diagram we observe the changes between the first week of January had and the last week of December in terms of number of orders, 
+new user acquisition and the average basket. It is noteworthy that Kozani shows a huge increase in the number of orders however the average Basket has gone down quite a lot.
+There are no special changes in the big cities.
+At last in Ioannina and Chania of Crete there is a big drop of orders.
